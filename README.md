@@ -1,8 +1,14 @@
 # lpx-jpkey-evacuater
 Evacuate Japanese.logikcs on Logic Pro X. and Fixer
 
-```ruby:qiita.rb
-puts 'The best way to log and share programmers knowledge.'
 ```
 +LPX Japanese Keycommand evacuater
-+Are you EVACUATE Japanese.logikcs? (Y/N)
++Japanese.logikcsを退避させますか? (Y/N)
+```
+Y
+```Japanese.logikcs``` to ```Japanese.logikcs.bak```
+
+N
++Japanese.logikcsを呼び戻しますか? (Y/N)
+```Japanese.logikcs.bak``` to ```Japanese.logikcs```
+
